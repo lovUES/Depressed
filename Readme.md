@@ -32,7 +32,7 @@ I will be developing and building the project ecosystem to use this token as a u
 ## How To Join or donate. 
  
 **Step 1**: Provide funds. 
-1. Via crypto you can send ETH/BNB/USDT/DAI to this [address](0x-address).
+1. Via crypto you can send ETH/BNB/USDT/DAI to this [address](https://etherscan.io/address/0x8c4a7329ff4afde546169aebd6dc7668e70927ad).
 
 2. Vai Papal. 
 Send at least $10 or $11 worth in other  currency to this [email](mailto:kainkent69@gmail.com) and if you want to join you can provide your wallet address, or do it letter via email or on the discord server. 
@@ -56,5 +56,5 @@ The future success of this project depends if we collectively join hands to coll
  
  Discord Server  ---> [HERE](https://discord.gg/vcVty46Z).
  
- Wallet Address ---> [HERE](mailto:kainkent69@gmail.com).
+ Wallet Address ---> [HERE](https://etherscan.io/address/0x8c4a7329ff4afde546169aebd6dc7668e70927ad).
  
